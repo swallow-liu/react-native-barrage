@@ -6,7 +6,7 @@ you can copy barrage.js export Barrage
 In Component ,you can use like this 
 
 
-`import Barrage from './barrage'
+```import Barrage from './barrage'
 
 export default class App extends React.Component {
   render() {
@@ -16,6 +16,4 @@ export default class App extends React.Component {
       </View>
     );
   }
-}
-
-`
+}```
